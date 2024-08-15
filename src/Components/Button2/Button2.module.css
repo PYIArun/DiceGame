@@ -1,0 +1,22 @@
+.button{
+    height: 72px;
+    width: 72px;
+    border-radius: 0px;
+    border: 1;
+    background-color: white;
+    font-weight: 500;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.filled_button{
+    height: 72px;
+    width: 72px;
+    border-radius: 0px;
+    border: 1;
+    color: white;
+    background-color: black;
+    font-weight: 500;
+    font-size: 24px;
+    cursor: pointer;
+}

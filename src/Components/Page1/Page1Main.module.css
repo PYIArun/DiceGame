@@ -1,0 +1,20 @@
+.content_section h1{
+    font-size: 96px;
+    font-weight: 700;
+}
+
+.image_section img{
+    height: 90%;
+    width: 90%;
+    padding-top: 120px;
+}
+.page_section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    display: flex;
+    justify-content: end;
+}

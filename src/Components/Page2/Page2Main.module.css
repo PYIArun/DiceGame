@@ -1,0 +1,90 @@
+.main{
+    max-width: 1280px;
+    margin: 0 auto;
+
+}
+
+.section_1{
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    align-items: center;
+}
+
+.score{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.score h1{
+    font-size: 80px;
+    font-weight: 600;
+    line-height: 80px;
+}
+
+
+.textsbuttons div{
+    height: 53px;
+}
+
+.not_selected{
+    color: red;
+    font-weight: 500;
+    display: flex;
+    justify-content: end;
+    padding-top: 40px;
+    margin-bottom: -20px;
+}
+.selected p{
+    padding-top: 50px;
+    font-weight: 700;
+    padding-top: 5;
+    display: flex;
+    justify-content: end;
+}
+
+.buttons{
+    display: flex;
+    gap: 15px;
+}
+
+.section_2{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image_text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.section2_buttons{
+    padding-top: 36px;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+
+.rules_section{
+    width:  715px;
+    height: 157px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FBF1F1;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 20px 20px;
+    gap: 24px;
+
+}
